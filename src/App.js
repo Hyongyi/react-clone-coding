@@ -47,6 +47,7 @@ function App() {
       </Box>
       <Emoji>🎇</Emoji>
     </Wrapper>
+    <Wrapper />
   );
 }
 
